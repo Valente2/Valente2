@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me good question
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/They
 - ⚡ Fun fact: I started python at 9 years old
 
