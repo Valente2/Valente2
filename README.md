@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valente2
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning C
+- 👀 I’m interested in making my own CPU in python
+- 🌱 I’m currently learning Aarch32 linux aseembly 
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me good question
 - 😄 Pronouns: He/They
